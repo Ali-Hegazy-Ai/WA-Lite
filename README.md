@@ -81,7 +81,6 @@ You only need these if you're **building from source**. If you just want to use 
 
 That's it — no build tools or developer setup required.
 
-> ⚠️ If no release has been published yet on the [Releases](../../releases) page, you'll need to build the app yourself for now. See [Build From Source](#build-from-source-developers) below. It takes about 15–25 minutes the first time (mostly downloading toolchains), and only a couple of minutes on every build after that.
 
 ---
 
